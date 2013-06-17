@@ -1,0 +1,13 @@
+p
+{
+    font-size:12px;
+}
+
+img 
+{
+   vertical-align:top; 
+}
+
+#mylist {
+ overflow: auto;
+}
